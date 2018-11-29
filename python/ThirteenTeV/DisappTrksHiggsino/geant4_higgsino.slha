@@ -6,6 +6,7 @@ BLOCK MASS
 #  PDG code   mass   particle
    1000022   _MZ1SS   # ~neutralino(1)
    1000023   _MZ1SS   # ~neutralino(2)
+  -1000023   _MZ1SS   # ~anti_neutralino(2)
    1000024   _MW1SS   # ~chargino(1)+
   -1000024   _MW1SS   # ~chargino(1)-
 Block
