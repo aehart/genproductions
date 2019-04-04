@@ -36,7 +36,7 @@ xsecs = {
 	900 : 0.001502429
 }
 
-ctaus = [10, 100, 1000, 10000] # cm
+ctaus = [1, 10, 100, 1000, 10000] # cm
 
 for mass in xsecs:
 	for ctau in ctaus:
